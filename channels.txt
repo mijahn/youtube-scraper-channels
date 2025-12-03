@@ -45,6 +45,7 @@ channel: https://www.youtube.com/@thegraytcat
 channel: https://www.youtube.com/@starterstory
 channel: https://www.youtube.com/@DanielPriestley
 channel: https://www.youtube.com/@theMITmonk
+channel: https://www.youtube.com/@HormoziHighlight
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

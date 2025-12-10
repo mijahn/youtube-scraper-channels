@@ -47,6 +47,7 @@ channel: https://www.youtube.com/@DanielPriestley
 channel: https://www.youtube.com/@theMITmonk
 channel: https://www.youtube.com/@HormoziHighlight
 channel: https://www.youtube.com/@ILTB_Podcast
+channel: https://www.youtube.com/@nateherk
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

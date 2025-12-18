@@ -51,6 +51,7 @@ channel: https://www.youtube.com/@nateherk
 channel: https://www.youtube.com/@Chase-H-AI
 channel: https://www.youtube.com/@unfkmystartup
 channel: https://www.youtube.com/@graceleungyl
+channel: https://www.youtube.com/@johncreates
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

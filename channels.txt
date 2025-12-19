@@ -54,6 +54,7 @@ channel: https://www.youtube.com/@graceleungyl
 channel: https://www.youtube.com/@johncreates
 channel: https://www.youtube.com/@d-squared70
 channel: https://www.youtube.com/@spoonfedstudy
+channel: https://www.youtube.com/@GritAIStudio
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

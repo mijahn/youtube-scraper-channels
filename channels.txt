@@ -57,6 +57,7 @@ channel: https://www.youtube.com/@spoonfedstudy
 channel: https://www.youtube.com/@GritAIStudio
 channel: https://www.youtube.com/@MyNameIsDeya
 channel: https://www.youtube.com/@MorningMakerShow
+channel: https://www.youtube.com/@Wanderloots
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

@@ -62,6 +62,7 @@ channel: https://www.youtube.com/@betterstack
 channel: https://www.youtube.com/@DevelopersDigest
 channel: https://www.youtube.com/@AICodingDaily
 channel: https://www.youtube.com/@dreamsofcode
+channel: https://www.youtube.com/@WolfgangsChannel
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

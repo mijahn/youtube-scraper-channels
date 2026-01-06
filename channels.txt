@@ -64,6 +64,7 @@ channel: https://www.youtube.com/@AICodingDaily
 channel: https://www.youtube.com/@dreamsofcode
 channel: https://www.youtube.com/@WolfgangsChannel
 channel: https://www.youtube.com/@parkerprompts
+channel: https://www.youtube.com/@snapperAI
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

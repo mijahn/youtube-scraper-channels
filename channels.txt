@@ -52,7 +52,8 @@ channel: https://www.youtube.com/@Chase-H-AI
 channel: https://www.youtube.com/@unfkmystartup
 channel: https://www.youtube.com/@graceleungyl
 channel: https://www.youtube.com/@johncreates
-channel: https://www.youtube.com/@d-squared70
+# channel: https://www.youtube.com/@d-squared70 --> now: https://www.youtube.com/@dylandavisAI
+channel: https://www.youtube.com/@dylandavisAI
 channel: https://www.youtube.com/@spoonfedstudy
 channel: https://www.youtube.com/@GritAIStudio
 channel: https://www.youtube.com/@MyNameIsDeya

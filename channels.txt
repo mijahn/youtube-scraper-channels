@@ -68,6 +68,7 @@ channel: https://www.youtube.com/@parkerprompts
 channel: https://www.youtube.com/@snapperAI
 channel: https://www.youtube.com/@duncanrogoff
 channel: https://www.youtube.com/@AILABS-393
+channel: https://www.youtube.com/@KennethLiao
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

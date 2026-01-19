@@ -71,6 +71,7 @@ channel: https://www.youtube.com/@AILABS-393
 channel: https://www.youtube.com/@KennethLiao
 channel: https://www.youtube.com/@GeoffreyHuntley | since=2026-01-01 | no-shorts
 channel: https://www.youtube.com/@AmpCodeInc | no-shorts
+channel: https://www.youtube.com/@DevInterrupted
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA

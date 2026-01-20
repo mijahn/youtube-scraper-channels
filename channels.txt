@@ -1,83 +1,83 @@
 # channels
-channel: https://www.youtube.com/@EricWTech
-channel: https://www.youtube.com/@indydevdan
-channel: https://www.youtube.com/@buildnpublic
-channel: https://www.youtube.com/@PeterYangYT
-channel: https://www.youtube.com/@PatrickOakleyEllis
-channel: https://www.youtube.com/@AddyOsmani
-channel: https://www.youtube.com/@danielpinktv
-channel: https://www.youtube.com/@TheFeatureCrew
-channel: https://www.youtube.com/@Mark_Kashef
-channel: https://www.youtube.com/@ThatNateBlack
-channel: https://www.youtube.com/@TimRunia
-channel: https://www.youtube.com/@GregIsenberg
-channel: https://www.youtube.com/@SimonHoiberg
-channel: https://www.youtube.com/@LowLevelTV
-channel: https://www.youtube.com/@iamseankochel
-channel: https://www.youtube.com/@AIOriented
-channel: https://www.youtube.com/@aiunleashed509
-channel: https://www.youtube.com/@CodieSanchezCT
-channel: https://www.youtube.com/@DenDev
-channel: https://www.youtube.com/@howiaipodcast
-channel: https://www.youtube.com/@LennysPodcast
-channel: https://www.youtube.com/@TheDiaryOfACEO
-# channel: https://www.youtube.com/@TED
-# channel: https://www.youtube.com/@TEDx
-channel: https://www.youtube.com/@ChrisWillx
-channel: https://www.youtube.com/@OBRosewell
-channel: https://www.youtube.com/@jessecunninghamv
-channel: https://www.youtube.com/@skozinsky
-channel: https://m.youtube.com/@samwitteveenai
-channel: https://m.youtube.com/@CrosstalkSolutions
-channel: https://www.youtube.com/@BuyThenBuild
-channel: https://www.youtube.com/@skozinsky
-channel: https://www.youtube.com/@edmundyong
-channel: https://www.youtube.com/@ed-lawrence
-channel: https://www.youtube.com/@marc-lou
-channel: https://www.youtube.com/@ProductManagementExercises
-channel: https://www.youtube.com/@jeffhsipepi
-channel: https://www.youtube.com/@diannayau
-channel: https://www.youtube.com/@tryexponent
-channel: https://www.youtube.com/@IGotAnOfferPM
-channel: https://www.youtube.com/@3.7Million
-channel: https://www.youtube.com/@BenAI92
-channel: https://www.youtube.com/@thegraytcat
-channel: https://www.youtube.com/@starterstory
-channel: https://www.youtube.com/@DanielPriestley
-channel: https://www.youtube.com/@theMITmonk
-channel: https://www.youtube.com/@HormoziHighlight
-channel: https://www.youtube.com/@ILTB_Podcast
-channel: https://www.youtube.com/@nateherk
-channel: https://www.youtube.com/@Chase-H-AI
-channel: https://www.youtube.com/@unfkmystartup
-channel: https://www.youtube.com/@graceleungyl
-channel: https://www.youtube.com/@johncreates
-# channel: https://www.youtube.com/@d-squared70 --> now: https://www.youtube.com/@dylandavisAI
-channel: https://www.youtube.com/@dylandavisAI
-channel: https://www.youtube.com/@spoonfedstudy
-channel: https://www.youtube.com/@GritAIStudio
-channel: https://www.youtube.com/@MyNameIsDeya
-channel: https://www.youtube.com/@MorningMakerShow
-channel: https://www.youtube.com/@Wanderloots
-channel: https://www.youtube.com/@betterstack
-channel: https://www.youtube.com/@DevelopersDigest
-channel: https://www.youtube.com/@AICodingDaily
-channel: https://www.youtube.com/@dreamsofcode
-channel: https://www.youtube.com/@WolfgangsChannel
-channel: https://www.youtube.com/@parkerprompts
-channel: https://www.youtube.com/@snapperAI
-channel: https://www.youtube.com/@duncanrogoff
-channel: https://www.youtube.com/@AILABS-393
-channel: https://www.youtube.com/@KennethLiao
+channel: https://www.youtube.com/@EricWTech | no-shorts
+channel: https://www.youtube.com/@indydevdan | no-shorts
+channel: https://www.youtube.com/@buildnpublic | no-shorts
+channel: https://www.youtube.com/@PeterYangYT | no-shorts
+channel: https://www.youtube.com/@PatrickOakleyEllis | no-shorts
+channel: https://www.youtube.com/@AddyOsmani | no-shorts
+channel: https://www.youtube.com/@danielpinktv | no-shorts
+channel: https://www.youtube.com/@TheFeatureCrew | no-shorts
+channel: https://www.youtube.com/@Mark_Kashef | no-shorts
+channel: https://www.youtube.com/@ThatNateBlack | no-shorts
+channel: https://www.youtube.com/@TimRunia | no-shorts
+channel: https://www.youtube.com/@GregIsenberg | no-shorts
+channel: https://www.youtube.com/@SimonHoiberg | no-shorts
+channel: https://www.youtube.com/@LowLevelTV | no-shorts
+channel: https://www.youtube.com/@iamseankochel | no-shorts
+channel: https://www.youtube.com/@AIOriented | no-shorts
+channel: https://www.youtube.com/@aiunleashed509 | no-shorts
+channel: https://www.youtube.com/@CodieSanchezCT | no-shorts
+channel: https://www.youtube.com/@DenDev | no-shorts
+channel: https://www.youtube.com/@howiaipodcast | no-shorts
+channel: https://www.youtube.com/@LennysPodcast | no-shorts
+channel: https://www.youtube.com/@TheDiaryOfACEO | no-shorts
+# channel: https://www.youtube.com/@TED | no-shorts
+# channel: https://www.youtube.com/@TEDx | no-shorts
+channel: https://www.youtube.com/@ChrisWillx | no-shorts
+channel: https://www.youtube.com/@OBRosewell | no-shorts
+channel: https://www.youtube.com/@jessecunninghamv | no-shorts
+channel: https://www.youtube.com/@skozinsky | no-shorts
+channel: https://m.youtube.com/@samwitteveenai | no-shorts
+channel: https://m.youtube.com/@CrosstalkSolutions | no-shorts
+channel: https://www.youtube.com/@BuyThenBuild | no-shorts
+channel: https://www.youtube.com/@skozinsky | no-shorts
+channel: https://www.youtube.com/@edmundyong | no-shorts
+channel: https://www.youtube.com/@ed-lawrence | no-shorts
+channel: https://www.youtube.com/@marc-lou | no-shorts
+channel: https://www.youtube.com/@ProductManagementExercises | no-shorts
+channel: https://www.youtube.com/@jeffhsipepi | no-shorts
+channel: https://www.youtube.com/@diannayau | no-shorts
+channel: https://www.youtube.com/@tryexponent | no-shorts
+channel: https://www.youtube.com/@IGotAnOfferPM | no-shorts
+channel: https://www.youtube.com/@3.7Million | no-shorts
+channel: https://www.youtube.com/@BenAI92 | no-shorts
+channel: https://www.youtube.com/@thegraytcat | no-shorts
+channel: https://www.youtube.com/@starterstory | no-shorts
+channel: https://www.youtube.com/@DanielPriestley | no-shorts
+channel: https://www.youtube.com/@theMITmonk | no-shorts
+channel: https://www.youtube.com/@HormoziHighlight | no-shorts
+channel: https://www.youtube.com/@ILTB_Podcast | no-shorts
+channel: https://www.youtube.com/@nateherk | no-shorts
+channel: https://www.youtube.com/@Chase-H-AI | no-shorts
+channel: https://www.youtube.com/@unfkmystartup | no-shorts
+channel: https://www.youtube.com/@graceleungyl | no-shorts
+channel: https://www.youtube.com/@johncreates | no-shorts
+# channel: https://www.youtube.com/@d-squared70 | no-shorts --> now: https://www.youtube.com/@dylandavisAI
+channel: https://www.youtube.com/@dylandavisAI | no-shorts
+channel: https://www.youtube.com/@spoonfedstudy | no-shorts
+channel: https://www.youtube.com/@GritAIStudio | no-shorts
+channel: https://www.youtube.com/@MyNameIsDeya | no-shorts
+channel: https://www.youtube.com/@MorningMakerShow | no-shorts
+channel: https://www.youtube.com/@Wanderloots | no-shorts
+channel: https://www.youtube.com/@betterstack | no-shorts
+channel: https://www.youtube.com/@DevelopersDigest | no-shorts
+channel: https://www.youtube.com/@AICodingDaily | no-shorts
+channel: https://www.youtube.com/@dreamsofcode | no-shorts
+channel: https://www.youtube.com/@WolfgangsChannel | no-shorts
+channel: https://www.youtube.com/@parkerprompts | no-shorts
+channel: https://www.youtube.com/@snapperAI | no-shorts
+channel: https://www.youtube.com/@duncanrogoff | no-shorts
+channel: https://www.youtube.com/@AILABS-393 | no-shorts
+channel: https://www.youtube.com/@KennethLiao | no-shorts
 channel: https://www.youtube.com/@GeoffreyHuntley | since=2026-01-01 | no-shorts
 channel: https://www.youtube.com/@AmpCodeInc | no-shorts
 channel: https://www.youtube.com/@DevInterrupted | no-shorts
 
 # lists
-playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA
-playlist: https://www.youtube.com/playlist?list=PLzKwf01g-ajWthpdlugcAJ9eB96YZzjIv
-playlist: https://www.youtube.com/playlist?list=PL8gDpwTEj4yIPs6WpjqavbAY8eFN9tWHh
-playlist: https://www.youtube.com/playlist?list=PLVIaKJMqVHi4oanGI5PwdOUwd8nH-g2Td
+playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | no-shorts
+playlist: https://www.youtube.com/playlist?list=PLzKwf01g-ajWthpdlugcAJ9eB96YZzjIv | no-shorts
+playlist: https://www.youtube.com/playlist?list=PL8gDpwTEj4yIPs6WpjqavbAY8eFN9tWHh | no-shorts
+playlist: https://www.youtube.com/playlist?list=PLVIaKJMqVHi4oanGI5PwdOUwd8nH-g2Td | no-shorts
 
 # videos
-video: https://www.youtube.com/watch?v=Dif1hwBejCk
+video: https://www.youtube.com/watch?v=Dif1hwBejCk | no-shorts

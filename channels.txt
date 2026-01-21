@@ -58,7 +58,7 @@ channel: https://www.youtube.com/@spoonfedstudy
 channel: https://www.youtube.com/@GritAIStudio
 channel: https://www.youtube.com/@MyNameIsDeya
 channel: https://www.youtube.com/@MorningMakerShow
-channel: https://www.youtube.com/@Wanderloots | since=2024-10-09
+channel: https://www.youtube.com/@Wanderloots | since=2024-10-14
 channel: https://www.youtube.com/@betterstack
 channel: https://www.youtube.com/@DevelopersDigest
 channel: https://www.youtube.com/@AICodingDaily

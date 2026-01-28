@@ -1,6 +1,6 @@
 # channels
 channel: https://www.youtube.com/@EricWTech
-channel: https://www.youtube.com/@indydevdan
+channel: https://www.youtube.com/@indydevdan | quality=2160p
 channel: https://www.youtube.com/@buildnpublic
 channel: https://www.youtube.com/@PeterYangYT
 channel: https://www.youtube.com/@PatrickOakleyEllis
@@ -69,15 +69,15 @@ channel: https://www.youtube.com/@snapperAI
 channel: https://www.youtube.com/@duncanrogoff
 channel: https://www.youtube.com/@AILABS-393
 channel: https://www.youtube.com/@KennethLiao
-channel: https://www.youtube.com/@GeoffreyHuntley | since=2026-01-01
+channel: https://www.youtube.com/@GeoffreyHuntley | since=2026-01-01 | quality=1080p
 channel: https://www.youtube.com/@AmpCodeInc
 channel: https://www.youtube.com/@DevInterrupted
 
 # lists
-playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA
-playlist: https://www.youtube.com/playlist?list=PLzKwf01g-ajWthpdlugcAJ9eB96YZzjIv
-playlist: https://www.youtube.com/playlist?list=PL8gDpwTEj4yIPs6WpjqavbAY8eFN9tWHh
-playlist: https://www.youtube.com/playlist?list=PLVIaKJMqVHi4oanGI5PwdOUwd8nH-g2Td
+playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | quality=2160p
+playlist: https://www.youtube.com/playlist?list=PLzKwf01g-ajWthpdlugcAJ9eB96YZzjIv | quality=2160p
+playlist: https://www.youtube.com/playlist?list=PL8gDpwTEj4yIPs6WpjqavbAY8eFN9tWHh | quality=2160p
+playlist: https://www.youtube.com/playlist?list=PLVIaKJMqVHi4oanGI5PwdOUwd8nH-g2Td | quality=2160p
 
 # videos
-video: https://www.youtube.com/watch?v=Dif1hwBejCk
+video: https://www.youtube.com/watch?v=Dif1hwBejCk | quality=2160p

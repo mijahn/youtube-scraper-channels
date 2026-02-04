@@ -1,6 +1,6 @@
 # channels
 channel: https://www.youtube.com/@EricWTech
-channel: https://www.youtube.com/@indydevdan | quality=2160p
+channel: https://www.youtube.com/@indydevdan | quality=1080p
 channel: https://www.youtube.com/@buildnpublic
 channel: https://www.youtube.com/@PeterYangYT
 channel: https://www.youtube.com/@PatrickOakleyEllis

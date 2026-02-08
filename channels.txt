@@ -72,6 +72,7 @@ channel: https://www.youtube.com/@KennethLiao
 channel: https://www.youtube.com/@GeoffreyHuntley | since=2026-01-01 | quality=min_1080p
 channel: https://www.youtube.com/@AmpCodeInc
 channel: https://www.youtube.com/@DevInterrupted
+channel: https://www.youtube.com/@andrewcodesmith
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | quality=min_1080p

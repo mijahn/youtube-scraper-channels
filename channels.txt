@@ -73,6 +73,7 @@ channel: https://www.youtube.com/@GeoffreyHuntley | since=2026-01-01 | quality=m
 channel: https://www.youtube.com/@AmpCodeInc
 channel: https://www.youtube.com/@DevInterrupted
 channel: https://www.youtube.com/@andrewcodesmith
+channel: https://www.youtube.com/@nateherk
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | quality=min_1080p

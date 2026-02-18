@@ -74,6 +74,7 @@ channel: https://www.youtube.com/@AmpCodeInc
 channel: https://www.youtube.com/@DevInterrupted
 channel: https://www.youtube.com/@andrewcodesmith
 channel: https://www.youtube.com/@nateherk
+channel: https://www.youtube.com/@EveryInc
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | quality=min_1080p

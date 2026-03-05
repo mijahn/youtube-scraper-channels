@@ -77,6 +77,7 @@ channel: https://www.youtube.com/@nateherk
 channel: https://www.youtube.com/@EveryInc
 channel: https://www.youtube.com/@briancasel
 channel: https://www.youtube.com/@BoxminingAI
+channel: https://www.youtube.com/@Openclawlabs
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | quality=min_1080p

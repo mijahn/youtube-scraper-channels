@@ -79,6 +79,7 @@ channel: https://www.youtube.com/@briancasel
 channel: https://www.youtube.com/@BoxminingAI
 channel: https://www.youtube.com/@Openclawlabs
 channel: https://www.youtube.com/@velvetshark-com
+channel: https://www.youtube.com/@Philipp-Humm | since=2025-01-01
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | quality=min_1080p

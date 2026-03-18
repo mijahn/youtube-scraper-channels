@@ -84,6 +84,8 @@ channel: https://www.youtube.com/@bilawalsidhu
 channel: https://www.youtube.com/@askmichia | since=2024-01-01
 channel: https://www.youtube.com/@nicksaraev | since=2025-07-01
 channel: https://www.youtube.com/@mattpocockuk | since=2025-09-19
+channel: https://www.youtube.com/@simonscrapes | since=2025-08-16
+
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | quality=min_1080p

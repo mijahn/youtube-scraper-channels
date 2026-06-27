@@ -89,7 +89,7 @@ channel: https://www.youtube.com/@DavidOndrej | since=2025-08-16
 channel: https://www.youtube.com/@JimsYTvideos | since=2026-01-01
 channel: https://www.youtube.com/@ZeroToMVP
 channel: https://www.youtube.com/@OnchainAIGarage
-
+channel: https://www.youtube.com/@alexpdfbusiness
 
 # lists
 playlist: https://www.youtube.com/playlist?list=PL01Ur3GaFSxyFumM3ywYF6MiJiOPpRdcA | quality=min_1080p

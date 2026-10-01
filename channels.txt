@@ -91,6 +91,8 @@ channel: https://www.youtube.com/@ZeroToMVP
 channel: https://www.youtube.com/@OnchainAIGarage
 channel: https://www.youtube.com/@alexpdfbusiness
 channel: https://www.youtube.com/@kunchenguid
+channel: https://www.youtube.com/@UpFlip
+
 
 
 # lists

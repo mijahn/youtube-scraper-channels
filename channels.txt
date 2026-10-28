@@ -92,7 +92,7 @@ channel: https://www.youtube.com/@OnchainAIGarage
 channel: https://www.youtube.com/@alexpdfbusiness
 channel: https://www.youtube.com/@kunchenguid
 channel: https://www.youtube.com/@UpFlip
-
+channel: https://www.youtube.com/@RoboNuggets
 
 
 # lists
